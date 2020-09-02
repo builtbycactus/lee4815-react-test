@@ -6,7 +6,7 @@ Welcome to the Built By Cactus React code test. React is used heavily within Bui
 
 ## The Repository
 
-Within this repository is a React application developed with [Create React App](https://reactjs.org/docs/create-a-new-react-app.html). The application is a simple todo application that requires finishing, so that you may add, edit and complete items from the list. It also requires tests to be written using the [React Testing Library](https://testing-library.com/docs/react-testing-library/intro), which you may run using `npm run test`.
+Within this repository is a React application developed with [Create React App](https://reactjs.org/docs/create-a-new-react-app.html). The application is a simple todo application that requires finishing, so that you may add, complete and un-complete items from the list. It also requires tests to be written using the [React Testing Library](https://testing-library.com/docs/react-testing-library/intro), which you may run using `npm run test`.
 
 You should work in feature branches following the [Git Flow](https://builtbycactus.github.io/docs/git/setup) methodology. When you've completed your feature, open a [pull request](https://builtbycactus.github.io/docs/git/pull-requests) and add the tag `Ready for review`. This will let us know that you're ready for us to review the codebase.
 
@@ -20,7 +20,7 @@ These tasks should take you no longer than a few hours to complete.
 
 **To complete this test, you must fix the following issues:**
 
-- [ ] Make sure you can Create, Update and Complete tasks within the application.
+- [ ] Make sure you can Create, Complete and Un-complete tasks within the application.
 - [ ] Add automated tests to confirm that the above are working.
 
 **Bonus tasks**
