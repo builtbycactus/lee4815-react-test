@@ -36,12 +36,7 @@
     "collectCoverageFrom": [
       "src/**/*.{js,jsx,ts,tsx}",
       "!/node_modules/",
-      "!src/index.tsx",
-      "!src/serviceWorker.ts",
-      "!src/react-app-env.d.ts",
-      "!src/utils/buttonActions.ts",
-      "!src/components/PushNotificationProvider.tsx",
-      "!src/components/AppUrlListener.tsx"
+      "!src/index.js"
     ],
     "coverageThreshold": {
       "global": {
